@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ade</h1>
-<h3 align="center">A passionate PHP + Laravel developer from Nigeria</h3>
+<h3 align="center">A passionate PHP + WordPress developer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/dewalexi" target="blank"><img src="https://img.shields.io/twitter/follow/dewalexi?logo=twitter&style=for-the-badge" alt="dewalexi" /></a> </p>
 
-- 👯 I’m looking to collaborate on **PHP & Laravel projects**
+- 👯 I’m looking to collaborate on **PHP & WordPress projects**
 
 - 📫 How to reach me **adewaletechmogul@gmail.com**
 
